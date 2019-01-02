@@ -2,7 +2,7 @@
 Website that auto generates math problems intended for 1 - 5th grades (Addition, Subtraction, Multiplication and Division)<br>
 The Website is responsive, includes a signup and login page done with mysql.
 
-## A Breif flow of the website is presented below
+## A Brief flow of the website is presented below
 
 <a name="1">
 <h3>Welcome Page</h3>
