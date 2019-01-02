@@ -21,7 +21,7 @@ Website that auto generates math problems intended for 1 - 5th grades (Addition,
 <a name="4">
 <h3>Addition</h3>
 <img src="4.png" width="150px">
-  <p>This is addition Page.<br><a href="#5">Correct Answer</a><br><a href="#6">Wrong Answer</a></p>
+  <p>This is addition Page. Next moves onto a brand new generated question.<br><a href="#5">Correct Answer</a><br><a href="#6">Wrong Answer</a></p>
 
 <a name="5">
 <h3>Correct Answer</h3>
