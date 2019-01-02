@@ -6,17 +6,17 @@ Website that auto generates math problems intended for 1 - 5th grades (Addition,
 <a name="1">
 <h3>Welcome Page</h3>
 <img src="1.png" width="150px">
-  <p>This is the Welcome Screen. If You already have a login, move to the <a href"#3">main page</a>. Else Proceed to <a href"#2">Signup Page</a></p>
+  <p>This is the Welcome Screen. If You already have a login, move to the <a href="#3">main page</a>. Else Proceed to <a href="#2">Signup Page</a></p>
   
 <a name="2">
 <h3>Signup Page</h3>
 <img src="2.png" width="150px">
-  <p>Now we can create a username and password and submit it in login page.<a href"#3">Main Page</a></p>
+  <p>Now we can create a username and password and submit it in login page.<a href="#3">Main Page</a></p>
   
 <a name="3">
 <h3>Main Page</h3>
 <img src="3.png" width="150px">
-  <p>Now we can Proceed to either addition subtraction multiplication or devision.<br> All are basically same, so we go to addition<a href"#4">addition</a></p>
+  <p>Now we can Proceed to either addition subtraction multiplication or devision.<br> All are basically same, so we go to addition<a href="#4">addition</a></p>
   
 <a name="4">
 <h3>Addition</h3>
