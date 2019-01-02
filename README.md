@@ -1,5 +1,6 @@
 # Learn-Math
-Website that auto generates math problems intended for 1 - 5th grades (Addition, Subtraction, Multiplication and Division)
+Website that auto generates math problems intended for 1 - 5th grades (Addition, Subtraction, Multiplication and Division)<br>
+The Website is responsive, includes a signup and login page done with mysql.
 
 ## A Breif flow of the website is presented below
 
