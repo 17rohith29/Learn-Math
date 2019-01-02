@@ -16,7 +16,7 @@ Website that auto generates math problems intended for 1 - 5th grades (Addition,
 <a name="3">
 <h3>Main Page</h3>
 <img src="3.png" width="150px">
-  <p>Now we can Proceed to either addition subtraction multiplication or devision.<br> All are basically same, so we go to addition<a href="#4">addition</a></p>
+  <p>Now we can Proceed to either addition subtraction multiplication or devision.<br> All are basically same, so we go to <a href="#4">addition</a></p>
   
 <a name="4">
 <h3>Addition</h3>
