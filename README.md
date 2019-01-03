@@ -1,6 +1,10 @@
 # Learn-Math
 Website that auto generates math problems intended for 1 - 5th grades (Addition, Subtraction, Multiplication and Division)<br>
-The Website is responsive, includes a signup and login page done with mysql.
+The Website is responsive, includes a signup and login page done with mysql.<br />
+The Website(Without login or signup-look at NOTE for details) is published at https://17rohith29.github.io/Learn-Math/ <br />
+
+## NOTE
+The Php files are moved to a folder PHP files so that github pages can render the rest as a website
 
 ## A Brief flow of the website is presented below
 
